@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MacroMile">
+  <rect width="64" height="64" rx="18" fill="#ed7b24"/>
+  <path d="M14 43V22h5.1l12.9 16.2L44.9 22H50v21h-5.9V31.4L32 46 19.9 31.4V43H14Z" fill="#fff8ef"/>
+</svg>
